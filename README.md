@@ -4,38 +4,34 @@ Thank you for taking the time to interview at Jelly!
 
 *Please read this whole document before beginning any work.*
 
-⏰ You should aim to spend around 2 hours on this challenge. We’re not expecting perfection, so feel free to make notes on areas you would improve and how you would approach them. These will make for great discussion points! The solution should, however, be functional and address the problem effectively.
+⏰ Please note that this challenge is designed to be completed in a relatively short amount of time. Focus on producing a functional solution, and feel free to note areas where you would improve or expand upon your implementation.
 
-🤖 We want to test you, not your AI, so please **write your own code without AI assistance**. Do however, make notes on where you think AI would have helped.
+🤖 We want to test you, not your AI, so please **write your own code without AI assistance**. (However, you may make notes on where you think AI would have helped.)
 
-⁉️ The problem statement is intentionally vague - just make a note of any assumptions made.
+⁉️ The problem statement is intentionally vague — please document any assumptions you make along the way.
 
-📚 As this is a back-end focussed role, we have provided a basic front-end boilerplate to get you going quickly, **if you would prefer, you can start from scratch or change any of the defaults** as long as it still solves the problem**.**
-
-🗣️ The next stage of this interview will be to look at what you’ve produced, not to pick it apart, but to have an open conversation around the technologies involved and the decisions you made along the way.
+🗣️ The next stage of this interview will be to review your work and have an open conversation about the technologies involved and the decisions you made. **Please ensure that you have the tech test up and running on your computer for the follow-up interview.**
 
 Good luck and have fun!
 
 ## Overview
 
-The `/frontend` folder in the repository contains a **React + TypeScript + Vite application** with **Material UI** already configured.
+The `/data` folder in the repository contains a data dump with various ingredients and their prices over time.
 
-The `/data` folder contains a data dump necessary for building your API
-
-The `/backend` folder is where we expect you to build your API
+The `/backend` folder is where you should build your API.
 
 ## Requirements & Guidelines
 
-💽 You have been provided with multiple files in `/data` - these give you various ingredients and their prices over time.
+💽 You have been provided with multiple files in `/data` which give you various ingredients and their prices over time.
 
-🕸️ We would like you to create a basic web application that allows you to create new recipes and view existing recipes, with their current cost to produce clearly displayed.
+🕸️ You are to create an application that allows you to create new recipes and view existing recipes, with their current cost to produce clearly displayed.
 
-📈 We would like a GraphQL/TypeScript API created that allows you to achieve this.
+📈 You must build a GraphQL/TypeScript API that interfaces with a **relational database** (e.g., PostgreSQL, MySQL, SQLite, etc.) to manage the recipe and ingredient data.
 
-📦 Feel free to use whatever packages you want to achieve your goal but just remember that we need to see what *you* are capable of, not package maintainers.
+📦 Feel free to use any packages you deem necessary, but remember that we need to see what *you* are capable of, not just how well you can integrate existing libraries.
 
 ## Submission
 
 1. **Commit your code** to a **private GitHub repo**.
-2. **Add `JackPriceBurns` and `AndrewSpode`as collaborators** so we can access your work.
+2. **Add** `JackPriceBurns` so we can access your work.
 3. **Send an email** letting us know you’re done and ready for review.
