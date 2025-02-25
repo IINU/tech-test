@@ -33,5 +33,5 @@ The `/backend` folder is where you should build your API.
 ## Submission
 
 1. **Commit your code** to a **private GitHub repo**.
-2. **Add** `JackPriceBurns` so we can access your work.
+2. **Add** `dobre-robert-marius` and `JackPriceBurns` so we can access your work.
 3. **Send an email** letting us know you’re done and ready for review.
