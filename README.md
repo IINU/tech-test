@@ -28,7 +28,7 @@ The `/backend` folder is where you should build your API.
 
 📈 You must build a GraphQL/TypeScript API that interfaces with a **relational database** (e.g., PostgreSQL, MySQL, SQLite, etc.) to manage the recipe and ingredient data.
 
-📦 Feel free to use any packages you deem necessary, but remember that we need to see what *you* are capable of, not just how well you can integrate existing libraries.
+📦 Feel free to use any packages you deem necessary; however, please refrain from using any major frameworks such as Nest.JS or Adonis.JS. We want to see what you are capable of building from the ground up, rather than how well you can integrate existing libraries.
 
 ## Submission
 
