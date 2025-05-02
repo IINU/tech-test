@@ -33,5 +33,5 @@ The `/backend` folder is where you should build your API.
 ## Submission
 
 1. **Commit your code** to a **private GitHub repo**.
-2. **Add** `robert-jelly` so we can access your work.
+2. **Add** `robert-jelly` and `dkjelly` so we can access your work.
 3. **Send an email** letting us know you’re done and ready for review.
