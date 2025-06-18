@@ -1,4 +1,4 @@
-# Jelly Back-end Tech Test
+# Jelly Tech Test
 
 Thank you for taking the time to interview at Jelly!
 
@@ -30,8 +30,16 @@ The `/backend` folder is where you should build your API.
 
 📦 Feel free to use any packages you deem necessary; however, please refrain from using any major frameworks such as Nest.JS or Adonis.JS. We want to see what you are capable of building from the ground up, rather than how well you can integrate existing libraries.
 
+---
+
+> ⚠️ **IMPORTANT:** Frontend implementation is **required only** if you applied for a **full-stack position**. If you applied for a **backend-focused role**, you can skip the frontend entirely.
+
+### Frontend Implementation Guidelines
+
+If applicable, you're encouraged to implement any frontend functionality that meaningfully represents the backend logic, which includes a CRUD server for recipes, ingredients, and price changes. All frontend code should be placed inside the `/frontend` directory. You're free to use any libraries you find valuable, though using **React.js** along with a **GraphQL client** is preferred. Focus on clarity, usability, and how well your UI reflects the backend capabilities.
+
 ## Submission
 
 1. **Commit your code** to a **private GitHub repo**.
-2. **Add** `robert-jelly` so we can access your work.
+2. **Add** `robert-jelly` and `dkjelly` so we can access your work.
 3. **Send an email** letting us know you’re done and ready for review.
