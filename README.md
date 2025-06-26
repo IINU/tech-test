@@ -4,7 +4,7 @@ Thank you for taking the time to interview at Jelly!
 
 *Please read this whole document before beginning any work.*
 
-⏰ Please note that this challenge is designed to be completed in a relatively short amount of time. Focus on producing a functional solution, and feel free to note areas where you would improve or expand upon your implementation.
+⏰ Please note that this challenge is designed to be completed in a relatively short amount of time. Focus on producing a functional solution, and feel free to note areas where you would improve or expand upon your implementation as if it were for a production-ready app.
 
 🤖 We want to test you, not your AI, so please **write your own code without AI assistance**. (However, you may make notes on where you think AI would have helped.)
 
@@ -26,7 +26,7 @@ The `/backend` folder is where you should build your API.
 
 🕸️ You are to create an application that allows you to create new recipes and view existing recipes, with their current cost to produce clearly displayed.
 
-📈 You must build a GraphQL/TypeScript API that interfaces with a **relational database** (e.g., PostgreSQL, MySQL, SQLite, etc.) to manage the recipe and ingredient data.
+📈 You must build a GraphQL or REST API in TypeScript that interfaces with a **relational database** (e.g., PostgreSQL, MySQL, SQLite, etc.) to manage the recipe and ingredient data.
 
 📦 Feel free to use any packages you deem necessary; however, please refrain from using any major frameworks such as Nest.JS or Adonis.JS. We want to see what you are capable of building from the ground up, rather than how well you can integrate existing libraries.
 
