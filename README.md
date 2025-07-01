@@ -36,7 +36,7 @@ The `/backend` folder is where you should build your API.
 
 ### Frontend Implementation Guidelines
 
-If applicable, you're encouraged to implement any frontend functionality that meaningfully represents the backend logic, which includes a CRUD server for recipes, ingredients, and price changes. All frontend code should be placed inside the `/frontend` directory. You're free to use any libraries you find valuable, though using **React.js** along with a **GraphQL client** is preferred. Focus on clarity, usability, and how well your UI reflects the backend capabilities.
+If applicable, you're encouraged to implement any frontend functionality that meaningfully represents the backend logic, which includes a CRUD server for recipes, ingredients, and price changes. All frontend code should be placed inside the `/frontend` directory. You're free to use any libraries you find valuable, though using **React.js** along with a **GraphQL/REST client** is preferred. Focus on clarity, usability, and how well your UI reflects the backend capabilities.
 
 ## Submission
 
